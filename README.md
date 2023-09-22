@@ -5,9 +5,9 @@ Overview
 This Logisim Evolution project is a seven-segment decoder. It takes a 4-bit binary input and displays the corresponding digit or character on a seven-segment display.
 
 Table of Contents
-Getting Started
-Usage
-Circuit Design
+-Getting Started
+-Usage
+-Circuit Design
 
 Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for testing and simulation.
